@@ -57,3 +57,21 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+
+.kari {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #6b6b6b;
+	font-weight: bolder;
+	font-variant: small-caps;
+	font-size: 60px;
+}
+
+
+.vladi {
+	font-family: "Playfair Display", serif;
+	color: #6b6b6b;
+	font-variant: small-caps;
+	font-size: 25px;
+}
+
